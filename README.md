@@ -178,7 +178,8 @@ The web interface provides basic functionality for:
 
 **image1**
 
-    ![first image](https://github.com/ismailCrafts/Todo_withAPI_Project/blob/main/images/first.png)
+    ![first image](https://raw.githubusercontent.com/ismailCrafts/Todo_withAPI_Project/main/images/first.png)
+
 
 **image2**
 
